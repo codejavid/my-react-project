@@ -12,6 +12,7 @@ function App() {
     <div className="app">
       <Header />
       <main className="app__main">
+        <p>My name is Jagan Javid</p>
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/blog" element={<Blog />} />
