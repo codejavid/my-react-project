@@ -15,7 +15,7 @@ function Blog() {
   return (
     <div className="blog container">
       <header className="blog__header">
-        <p className="eyebrow">The journal</p>
+        <p className="eyebrow">The journal hai</p>
         <h1>All stories</h1>
         <p>Notes on machines, roads, and the people who keep them running.</p>
       </header>
